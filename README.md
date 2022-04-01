@@ -10,5 +10,6 @@ This repository is mostly experimental and contains fairly low quality unfinishe
 Don't expect any future updates or fixes
 
 Demo of the Quadruped
+testnet
 
 [![Quadruped Walking Teaser!](https://img.youtube.com/vi/A0_89ODIW2Q/0.jpg)](https://www.youtube.com/watch?v=A0_89ODIW2Q "Quadruped Walking Teaser!")
